@@ -1,4 +1,4 @@
-# Azure DevOps HOL
+# Azure DevOps HOL 20191220
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
@@ -13,7 +13,7 @@ Git에 사용 방법에 대해서 알고 있다고 가정하고 실습을 진행
 
 ### Let's go!
 
-핸즈온랩을 시작해 봅시다. 같이 계신 분과 함께 즐거운 시간을 보냅시다.
+핸즈온랩을 시작해 봅시다. 같이 계신 분과 함께 즐거운 시간을 보냅시다. 뿌잉뿌잉뿌잉
 
 Have fun!
 
